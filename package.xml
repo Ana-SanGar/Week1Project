@@ -3,7 +3,6 @@
     <types>
         <members>Repair_Details__c.Contact__c</members>
         <members>Repair_Details__c.Issue__c</members>
-        <members>Repair_Details__c.Needs_a_second_visit__c</members>
         <members>Repair_Details__c.Notes__c</members>
         <members>Repair_Details__c.Repair_Date__c</members>
         <members>Repair_Details__c.Repair_Technician__c</members>
