@@ -12,11 +12,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Repair_Details__c.Needs_a_second_visit__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Repair_Details__c.Notes__c</field>
         <readable>true</readable>
     </fieldPermissions>
