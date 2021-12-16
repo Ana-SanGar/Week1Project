@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Repair_Details__c.Contact__c</members>
-        <members>Repair_Details__c.Issue__c</members>
-        <members>Repair_Details__c.Needs_a_second_visit__c</members>
-        <members>Repair_Details__c.Notes__c</members>
-        <members>Repair_Details__c.Repair_Date__c</members>
-        <members>Repair_Details__c.Repair_Technician__c</members>
-        <members>Repair_Technician__c.First_Name__c</members>
-        <members>Repair_Technician__c.Last_Name__c</members>
+        <members>CaseOperations</members>
+        <members>CaseOperationsTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Activity_5</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Case.Is_Premier_Account__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Repair_Details__c</members>
-        <members>Repair_Technician__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Online_Store_Management</members>
-        <name>PermissionSet</name>
+        <members>Admin</members>
+        <members>Custom%3A Support Profile</members>
+        <name>Profile</name>
     </types>
     <version>53.0</version>
 </Package>
