@@ -8,7 +8,7 @@ public class CaseOperationsTest {
         Contact con = new Contact (AccountId = acc.Id, LastName = 'TestContact');
         
         // Perform test
-        Test.startTest();
+        Test.startTest();// This is a comment
         Case c = new Case (Status = 'New', Origin = 'Email', AccountId = acc.Id, ContactId = con.Id, Is_Premier_Account__c = True);
         Database.SaveResult result = Database.insert(c);
         Test.stopTest();
