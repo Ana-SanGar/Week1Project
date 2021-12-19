@@ -5,5 +5,9 @@
         <members>CaseOperationsTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Case-Copy of Case Layout</members>
+        <name>Layout</name>
+    </types>
     <version>53.0</version>
 </Package>
