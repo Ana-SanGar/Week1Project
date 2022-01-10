@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Pricebook2.External_Id__c</members>
-        <members>PricebookEntry.External_Id__c</members>
-        <members>Product2.External_Id__c</members>
+        <members>Account.External_Id__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Pricebook2-Price Book Layout</members>
-        <members>PricebookEntry-Price Book Entry Layout</members>
-        <members>Product2-Product Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
     </types>
     <version>53.0</version>
 </Package>
